@@ -1,0 +1,49 @@
+
+.traffic-lights {
+    width: 60px;
+    background-color: #333;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    gap: 10px;
+}
+
+.light {
+    width: 50px;
+    height: 50px;
+    background-color: #eee;
+}
+
+.red.on {
+    background-color: red;
+}
+
+.yellow.on {
+    background-color: yellow;
+}
+
+.green.on {
+    background-color: green;
+}
+
+.Pink{
+    background-color: rgb(240, 125, 125);
+    height: 50%;
+    margin: 25px 0px;
+
+}
+
+.Purple{
+    background-color: rgb(239, 239, 184);
+    height:50%;
+    width: 50%;
+    margin:25px ;
+}
+.Rosa {
+    background-color: rgb(59, 234, 147);
+    height:50%;
+    width: 50%;
+    margin:25px 0 ;
+}
